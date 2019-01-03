@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Guardwell Crescent
 
-You can use the [editor on GitHub](https://github.com/MariusCiocanel/Guardwell/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to the official Guardwell Crescent Residents' Association's website. This site is here to provide a point of contact to our Guardwell Crescent Residents' Association Committee and also to help bring our community closer together. 
 
 ### Markdown
 
